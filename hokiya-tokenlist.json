@@ -755,14 +755,23 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     },
-    {
+       {
       "chainId": 97,
       "address": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
       "name": "Wrapped BNB",
       "symbol": "wBNB",
       "decimals": 18,
       "logoURI": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/550eda20-1b9a-4bc7-9a65-e4a329e8bb57.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20201110/550eda20-1b9a-4bc7-9a65-e4a329e8bb57.png"
     }
+    
   ],
   "version": {
     "major": 2,
